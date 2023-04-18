@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#64A9DF</color>
+    <color name="colorPrimaryDark">#188FC5</color>
+    <color name="colorAccent">#134055</color>
+    <color name="litherGray">#a1a1a1</color>
+    <color name="green">#388E3C</color>
+    <color name="red">#D32F2F</color>
+
+
+    <array name="random_color">
+        <item name="red_400" type="color">#e84e40</item>
+        <item name="pink_400" type="color">#ec407a</item>
+        <item name="purple_400" type="color">#ab47bc</item>
+        <item name="deep_purple_400" type="color">#7e57c2</item>
+    </array>
+</resources>
